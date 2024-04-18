@@ -1,0 +1,30 @@
+/**
+custom admin templates
+*/
+
+#wpfooter {
+  background-color: white;
+  padding: 20px;
+}
+#footer-left,
+#footer-upgrade {
+  text-align: center;
+  width: 100%;
+}
+#wp_body_content {
+  padding-top: 50px;
+}
+
+#bs-admin-head {
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  display: block;
+}
+body.login div#login h1 a {
+  background-image: url("https://previews.123rf.com/images/aprillrain/aprillrain2212/aprillrain221200638/196354278-imagen-de-caricatura-de-un-astronauta-sentado-en-una-luna-ilustraci%C3%B3n-de-alta-calidad.jpg");
+  background-size: auto;
+  height: 47px;
+  width: 100%;
+}
